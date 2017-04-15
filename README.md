@@ -9,6 +9,7 @@ BIN Package content.
 Condor2LK BIN package contains the following files which should be in the same folder:
 -	01.ico
 -	C2LK_manual.pdf
+- Condor2LK_Terms and conditions.pdf
 -	C2LKpolars.txt
 -	Condor2LK.ini
 -	C2LK.exe
